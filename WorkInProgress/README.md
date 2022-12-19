@@ -34,7 +34,10 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Apresentação do Desafio - Modelando o Sistema Bancário em POO com Python](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/92139fbc-dd1f-44c2-a9dc-61859f246f60)[Resolução do Desafio – Parte 1](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/4b3df149-8428-4dae-b802-c1df17170fc0)[Resolução do Desafio – Parte 2](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/f6446775-a88a-4724-901b-09c2237962a4)[Trilha de desafio](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/5c88f9cf-60a1-4673-bb66-5686c0a0d46b)
+- [Apresentação do Desafio - Modelando o Sistema Bancário em POO com Python](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/92139fbc-dd1f-44c2-a9dc-61859f246f60)
+- [Resolução do Desafio – Parte 1](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/4b3df149-8428-4dae-b802-c1df17170fc0)
+- [Resolução do Desafio – Parte 2](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/f6446775-a88a-4724-901b-09c2237962a4)
+- [Trilha de desafio](https://web.dio.me/lab/modelando-o-sistema-bancario-em-poo-com-python/learning/5c88f9cf-60a1-4673-bb66-5686c0a0d46b)
 
 
 
